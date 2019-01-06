@@ -6,4 +6,5 @@ package com.lxd.design.patterns.structural.adapter;
  * @date 2019-01-06
  */
 public class AdapterDemo {
+
 }
