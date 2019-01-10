@@ -3,6 +3,7 @@ package com.lxd.design.patterns.creational.factorymethod;
 import com.lxd.design.patterns.MessageSender;
 
 /**
+ * 定义一个创建对象的接口，让子类决定实例化那个类
  * @author lixiaodong
  * @version V1.0.0
  * @date 2019-01-06

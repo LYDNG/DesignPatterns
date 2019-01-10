@@ -7,6 +7,7 @@ import com.lxd.design.patterns.SmsMessageSender;
 
 /**
  * 简单工厂模式
+ * 一个工厂类根据传入的参量决定创建出那一种产品类的实例
  * -see org.springframework.beans.factory.BeanFactory
  * @author lixiaodong
  * @version V1.0.0

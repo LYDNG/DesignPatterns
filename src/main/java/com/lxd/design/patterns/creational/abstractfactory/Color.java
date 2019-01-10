@@ -1,0 +1,10 @@
+package com.lxd.design.patterns.creational.abstractfactory;
+
+/**
+ * @author lixiaodong
+ * @version V1.0.0
+ * @date 2019-01-10
+ */
+public interface Color {
+    void fill();
+}

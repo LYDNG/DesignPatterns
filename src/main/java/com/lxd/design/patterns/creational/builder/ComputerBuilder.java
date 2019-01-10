@@ -3,11 +3,12 @@ package com.lxd.design.patterns.creational.builder;
 import com.lxd.design.patterns.Computer;
 
 /**
+ *
  * @author lixiaodong
  * @version V1.0.0
  * @date 2019-01-06
  */
-public class ComputerBuilder implements Builder<Computer> {
+public class ComputerBuilder {
     private String cpu;
     private String memory;
     private String mainboard;
